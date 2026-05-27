@@ -1,7 +1,7 @@
 {
+  "publishedAt": "2026-05-27T08:37:16.3463567Z",
+  "notes": "Nuova versione disponibile.",
   "version": "0.2.0",
-  "publishedAt": "2026-05-27T10:12:09Z",
-  "package": "LockableCalendar-win-x64.zip",
   "downloadUrl": "https://github.com/Heijin92/LockableCalendar-Releases/releases/download/v0.2.0/LockableCalendar-win-x64.zip",
-  "notes": "Prima release di prova."
+  "package": "LockableCalendar-win-x64.zip"
 }
