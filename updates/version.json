@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-05-27T08:37:16.3463567Z",
-  "notes": "Nuova versione disponibile.",
-  "version": "0.2.0",
-  "downloadUrl": "https://github.com/Heijin92/LockableCalendar-Releases/releases/download/v0.2.0/LockableCalendar-win-x64.zip",
-  "package": "LockableCalendar-win-x64.zip"
+  "publishedAt": "2026-05-27T17:35:00.7210513Z",
+  "notes": "Aggiornamento MedAgenda: nuovo nome, icona aggiornata, backup e salvataggi migliorati.",
+  "version": "0.2.1",
+  "downloadUrl": "https://github.com/Heijin92/LockableCalendar-Releases/releases/download/v0.2.1/MedAgenda-win-x64.zip",
+  "package": "MedAgenda-win-x64.zip"
 }
