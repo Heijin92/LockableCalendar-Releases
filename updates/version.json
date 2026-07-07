@@ -1,7 +1,7 @@
 {
     "publishedAt":  "2026-07-07T10:35:08.9080709Z",
-    "notes":  "Aggiornamento a Velopack.",
-    "version":  "0.2.3",
+    "notes":  "Corretto bug update",
+    "version":  "0.2.4",
     "downloadUrl":  "https://github.com/Heijin92/LockableCalendar-Releases/releases/download/v0.2.3/MedAgenda-win-x64.zip",
     "package":  "MedAgenda-win-x64.zip"
 }
