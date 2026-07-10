@@ -1,7 +1,7 @@
 {
     "publishedAt":  "2026-07-07T10:35:08.9080709Z",
-    "notes":  "Fix Informatori",
-    "version":  "1.0.1",
+    "notes":  "Fix thread UI",
+    "version":  "1.0.3",
     "downloadUrl":  "https://github.com/Heijin92/LockableCalendar-Releases/releases/download/v0.2.3/MedAgenda-win-x64.zip",
     "package":  "MedAgenda-win-x64.zip"
 }
