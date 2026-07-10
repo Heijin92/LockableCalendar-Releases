@@ -1,7 +1,7 @@
 {
     "publishedAt":  "2026-07-07T10:35:08.9080709Z",
-    "notes":  "Prima release 1.0.0 con barra upgrade",
-    "version":  "1.0.0",
+    "notes":  "Fix Informatori",
+    "version":  "1.0.1",
     "downloadUrl":  "https://github.com/Heijin92/LockableCalendar-Releases/releases/download/v0.2.3/MedAgenda-win-x64.zip",
     "package":  "MedAgenda-win-x64.zip"
 }
